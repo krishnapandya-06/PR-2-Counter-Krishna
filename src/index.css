@@ -1,0 +1,13 @@
+body{
+ background-color: #201f1f;
+ margin: 0;
+ display: flex;
+ place-items: center !important;
+ min-width: 320px; 
+ min-height: 100vh;
+ justify-content:center;
+}
+.buttons{
+ display: flex;
+ place-content: center;
+}
